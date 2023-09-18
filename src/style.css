@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(219, 175, 112);
+    color:white;
+}
+
+h1{
+    text-align:center;
+}
+
+a{
+    text-decoration:none;
+    color:brown;
+}
+
+
+.btn{
+    background-color: brown;
+        border: 1px solid brown;
+        max-width: 200px;
+}
+
+.btn:hover{
+    background-color: brown;
+        border: 1px solid brown;
+        transition:all 1ms ease-in-out;
+}
+
