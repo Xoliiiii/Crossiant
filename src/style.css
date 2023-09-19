@@ -7,11 +7,31 @@ h1{
     text-align:center;
 }
 
+h3{
+    font-size: 15px;
+    text-align: center;
+}
+
 a{
     text-decoration:none;
     color:brown;
+   
 }
 
+footer{
+    text-align: center;
+}
+
+img{
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
+
+.email{
+    text-align:center;
+}
 
 .btn{
     background-color: brown;
